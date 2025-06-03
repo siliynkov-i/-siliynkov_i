@@ -1,1 +1,2 @@
-# -siliynkov_i
+# -siliynkov-i
+Учебный репозиторий
